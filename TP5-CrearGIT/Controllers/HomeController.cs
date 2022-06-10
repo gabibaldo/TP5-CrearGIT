@@ -11,7 +11,14 @@ namespace TP5_CrearGIT.Controllers
         public ActionResult Index()
         {
             //CODIGO SUBIDO TP 5 CREAR CUENTA DE GIT 
+
+            //MODIFICACION DEL CODIGO 
+
+            int num = 0;
+            string var = 0;
+
             return View();
+
         }
 
         public ActionResult About()
